@@ -48,6 +48,9 @@ Furthermore, the primary dataset containing state-related factors underwent thor
 
 ---------------
 # Analysis and Visualizations
+As previously mentioned in the introduction of this documentation, the data has been visualized across two tabs. The initial tab is displayed below.
+
+![](Places_to_retire.png)
 
 
 
