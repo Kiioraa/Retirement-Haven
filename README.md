@@ -34,9 +34,11 @@ I gathered the data by extracting it from the internet and obtained another port
 
 -----------------
 # Data Transformation / Cleaning
+The data transformation and cleaning process involved utilizing the Power Query Editor for efficient cleansing. I also extracted category-assigned data points from the web, which were subsequently placed into an Excel file before importing them into Power BI. Screenshot is provided below.
 
 
 
+Furthermore, the primary dataset containing state-related factors underwent thorough cleaning in the Power Query Editor.
 
 
 
