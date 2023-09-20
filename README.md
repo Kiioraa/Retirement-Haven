@@ -25,4 +25,22 @@ This project aims to address the concerns surrounding favorable and unfavorable 
 
 ---------------
 # Skills Demonstrated
-I used Power BI to make the dashboard, and I also cleaned and organized the data using Power Query Editor before creating the visualizations.
+I used Power BI to create the dashboard, and I also cleaned and organized the data using Power Query Editor before creating the visualizations.
+
+------------------------
+# Data Sourcing / Gathering
+I gathered the data by extracting it from the internet and obtained another portion of the dataset in CSV format from the website.
+
+
+-----------------
+# Data Transformation / Cleaning
+
+
+
+
+
+
+
+
+
+
