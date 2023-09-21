@@ -62,6 +62,8 @@ As previously mentioned in the introduction of this documentation, the data has 
 
   The second tab is displayed below👇🏽
 
+  ![](Places_to_retire2.png)
+
 
 
 
