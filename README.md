@@ -53,6 +53,12 @@ As previously mentioned in the introduction of this documentation, the data has 
 ![](Places_to_retire.png)
 
 
+#### From the dashboard above, it is observed that
+- Alaska is ranking as the last position indicating that it is the worst country to settle in.
+- On the otherhand, Lowa is ranking as the first position which indicates that it is the best state to settle in.
+- 
+
+
 
 
 
