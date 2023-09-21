@@ -30,6 +30,7 @@ I used Power BI to create the dashboard, and I also cleaned and organized the da
 ------------------------
 # Data Sourcing / Gathering
 I gathered the data by extracting it from the internet and obtained another portion of the dataset in CSV format from the website.
+Howwver, the main data which was downloaded from the website contains 50 rows and 7 columnns.
 
 
 -----------------
@@ -53,12 +54,13 @@ As previously mentioned in the introduction of this documentation, the data has 
 ![](Places_to_retire.png)
 
 
-#### From the dashboard above, it is observed that
+#### From the dashboard above👆🏽, it is observed that
 - Alaska is ranking as the last position indicating that it is the worst country to settle in.
 - On the otherhand, Lowa is ranking as the first position which indicates that it is the best state to settle in.
-- 
+- Nevertheless, the visualization of the analysis regarding categories assigned to each state is presented in a pie chart.
 
 
+  The second tab is displayed below👇🏽
 
 
 
