@@ -35,7 +35,7 @@ However, the main data which was downloaded from the website contains 50 rows an
 
 -----------------
 # Data Transformation / Cleaning
-The data transformation and cleaning process involved utilizing the Power Query Editor for efficient cleansing. I also extracted category-assigned data points from the web, which were subsequently placed into an Excel file before importing them into Power BI. 
+The data transformation and cleaning process involved utilizing the Power Query Editor for efficient cleansing. I also extracted category-assigned data points from the web, which I subsequently placed into an Excel file before importing them into Power BI. 
 
 Screenshot is provided below.
 
