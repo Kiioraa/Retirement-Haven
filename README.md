@@ -5,7 +5,7 @@
 
 
 
-This project is in accordance with the N30days learning program, organized by Mr. Olanrewaju Oyinbooke, a Senior Cloud Advocate at Microsoft. The program took place in June 2022.
+This project is in accordance with the N30days learning program, organized by Mr. Olanrewaju Oyinbooke, a Senior Cloud Advocate at Microsoft. The program was documented in June 2022.
 
 This file comprises of 2 tabs which are:
 - Retirement Analysis Dashboard
